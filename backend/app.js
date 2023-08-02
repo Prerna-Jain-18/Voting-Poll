@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 // Replace this with your MongoDB connection string
-const dbURI = 'mongodb+srv://prernakhivasara15469:Prerna15469@mycluster.ekzvp5g.mongodb.net/?retryWrites=true&w=majority';
+const dbURI = '<Your-Connection-string>';
 
 // Connect to MongoDB
 mongoose
