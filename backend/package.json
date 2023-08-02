@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prerna-Jain-18/Voting-Poll.git"
+  },
+  "author": "Prerna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prerna-Jain-18/Voting-Poll/issues"
+  },
+  "homepage": "https://github.com/Prerna-Jain-18/Voting-Poll#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^3.6.11",
+    "mongoose": "^5.13.20",
+    "socket.io": "^4.7.1"
+  }
+}

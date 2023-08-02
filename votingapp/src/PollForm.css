@@ -1,0 +1,50 @@
+/* PollForm.css */
+
+.poll-form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .poll-form h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .poll-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .poll-form label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .poll-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .poll-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .poll-form button:hover {
+    background-color: #45a049;
+  }
+  
